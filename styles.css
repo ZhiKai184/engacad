@@ -12,7 +12,7 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 }
-
+/* Start of header*/
 header{
   width: 984px;
   position: absolute;
@@ -33,7 +33,8 @@ header{
 .left_area span{
   color: #8dc9a4;
 }
-
+/*End of header*/
+/*Start of sidebar*/
 .sidebar{
   background: #467854;
   margin-top: 70px;
@@ -165,7 +166,8 @@ header{
   margin-top: 20px;
   margin-bottom: 20px;
 }
-
+/*End of sidebar*/
+/*Start of main*/
 .main{
   margin-left: 250px;
   width: 754px;
@@ -220,7 +222,8 @@ header{
   color: #fff;
   font-size: 22px;
 }
-
+/*End of main*/
+/*Start of footer*/
 footer{
   width: 1004px;
 	padding: 10px;
@@ -233,4 +236,4 @@ footer a{
   color: #fff;
   text-decoration: none;
 }
-
+/*End of footer
