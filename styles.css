@@ -126,7 +126,7 @@ header{
 .sidebar #navigation .dropdown ul .dropdown_three ul{
   display: none;
   position: absolute;
-  left: 300px;
+  left: 200px;
   top: 0;
 }
 
