@@ -123,6 +123,20 @@ header{
   display: initial;
 }
 
+.sidebar #navigation .dropdown ul .dropdown_three ul{
+  display: none;
+  position: absolute;
+  left: 200px;
+  top: 0;
+}
+
+.sidebar #navigation .dropdown ul .dropdown_three{
+  position: relative;
+}
+
+.sidebar #navigation .dropdown ul .dropdown_three:hover ul{
+  display: initial;
+}
 .sidebar #contact h4{
   color: #fff;
   text-align: center;
